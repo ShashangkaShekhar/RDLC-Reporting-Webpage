@@ -1,0 +1,95 @@
+D:\Work\Trial\LibraryMgt\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+D:\Work\Trial\LibraryMgt\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibraryMgt\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+D:\Work\Trial\LibraryMgt\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibraryMgt\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+D:\Work\Trial\LibraryMgt\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+D:\Work\Trial\LibraryMgt\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibraryMgt\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+D:\Work\Trial\LibraryMgt\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+D:\Work\Trial\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+D:\Work\Trial\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+D:\Work\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+D:\Work\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+D:\Work\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+E:\Trial\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+E:\Trial\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+E:\Trial\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+E:\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+E:\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+E:\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+E:\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+E:\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+E:\Trial\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csprojResolveAssemblyReference.cache
+E:\Trial\Source\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+E:\Trial\Source\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+E:\Trial\Source\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+E:\Trial\Source\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csprojResolveAssemblyReference.cache
+E:\Trial\Source\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+E:\Trial\Source\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+E:\Trial\Source\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+E:\Trial\Source\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+E:\Trial\Source\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CopyComplete
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CopyComplete
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CopyComplete
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+D:\Trial\New folder\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+D:\Trial\New folder\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+D:\Trial\New folder\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+D:\Trial\New folder\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Trial\New folder\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Trial\New folder\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+D:\Trial\New folder\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+D:\Trial\New folder\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+D:\Trial\New folder\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+D:\Trial\New folder\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CopyComplete
+D:\Trial\New folder\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+D:\Trial\New folder\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+D:\Trial\Worked\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+D:\Trial\Worked\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+D:\Trial\Worked\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+D:\Trial\Worked\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Trial\Worked\LibrarySystem\DataModels\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Trial\Worked\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+D:\Trial\Worked\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+D:\Trial\Worked\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+D:\Trial\Worked\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+D:\Trial\Worked\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CopyComplete
+D:\Trial\Worked\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+D:\Trial\Worked\LibrarySystem\DataModels\obj\Debug\netstandard2.0\DataModels.pdb

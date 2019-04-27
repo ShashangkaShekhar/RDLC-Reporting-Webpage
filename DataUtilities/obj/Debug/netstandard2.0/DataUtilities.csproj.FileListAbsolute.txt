@@ -1,0 +1,80 @@
+D:\Work\Trial\LibraryMgt\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.deps.json
+D:\Work\Trial\LibraryMgt\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibraryMgt\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibraryMgt\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibraryMgt\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfoInputs.cache
+D:\Work\Trial\LibraryMgt\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfo.cs
+D:\Work\Trial\LibraryMgt\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibraryMgt\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibraryMgt\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csprojAssemblyReference.cache
+D:\Work\Trial\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.deps.json
+D:\Work\Trial\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfoInputs.cache
+D:\Work\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfo.cs
+D:\Work\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csprojAssemblyReference.cache
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.deps.json
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfoInputs.cache
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfo.cs
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.pdb
+E:\Trial\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.deps.json
+E:\Trial\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.dll
+E:\Trial\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.pdb
+E:\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csproj.CoreCompileInputs.cache
+E:\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfoInputs.cache
+E:\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfo.cs
+E:\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.dll
+E:\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.pdb
+E:\Trial\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csprojResolveAssemblyReference.cache
+E:\Trial\Source\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.deps.json
+E:\Trial\Source\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.dll
+E:\Trial\Source\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.pdb
+E:\Trial\Source\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csprojResolveAssemblyReference.cache
+E:\Trial\Source\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csproj.CoreCompileInputs.cache
+E:\Trial\Source\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfoInputs.cache
+E:\Trial\Source\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfo.cs
+E:\Trial\Source\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.dll
+E:\Trial\Source\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.deps.json
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfoInputs.cache
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfo.cs
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibSys\New\LibraryMgt - Ext\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csprojAssemblyReference.cache
+D:\Work\Trial\LibSys\LibraryMgt - Ext\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csprojAssemblyReference.cache
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.deps.json
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csprojAssemblyReference.cache
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csproj.CoreCompileInputs.cache
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfoInputs.cache
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfo.cs
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.dll
+D:\Work\Trial\LibSys\LibrarySystem-Core2.1-Angular6\LibrarySystem-Core2.1-Angular6\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.pdb
+D:\Trial\New folder\LibrarySystem\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.deps.json
+D:\Trial\New folder\LibrarySystem\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Trial\New folder\LibrarySystem\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Trial\New folder\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csproj.CoreCompileInputs.cache
+D:\Trial\New folder\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfoInputs.cache
+D:\Trial\New folder\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfo.cs
+D:\Trial\New folder\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.dll
+D:\Trial\New folder\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.pdb
+D:\Trial\New folder\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csprojAssemblyReference.cache
+D:\Trial\Worked\LibrarySystem\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.deps.json
+D:\Trial\Worked\LibrarySystem\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.dll
+D:\Trial\Worked\LibrarySystem\DataUtilities\bin\Debug\netstandard2.0\DataUtilities.pdb
+D:\Trial\Worked\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.csproj.CoreCompileInputs.cache
+D:\Trial\Worked\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfoInputs.cache
+D:\Trial\Worked\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.AssemblyInfo.cs
+D:\Trial\Worked\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.dll
+D:\Trial\Worked\LibrarySystem\DataUtilities\obj\Debug\netstandard2.0\DataUtilities.pdb

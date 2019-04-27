@@ -1,0 +1,9 @@
+D:\Trial\Worked\LibrarySystem\ReportDesigner\bin\Debug\ReportDesigner.dll
+D:\Trial\Worked\LibrarySystem\ReportDesigner\bin\Debug\ReportDesigner.pdb
+D:\Trial\Worked\LibrarySystem\ReportDesigner\obj\Debug\ReportDesigner.csproj.CoreCompileInputs.cache
+D:\Trial\Worked\LibrarySystem\ReportDesigner\obj\Debug\ReportDesigner.dll
+D:\Trial\Worked\LibrarySystem\ReportDesigner\obj\Debug\ReportDesigner.pdb
+D:\Trial\Worked\LibrarySystem\ReportDesigner\bin\Debug\ReportDesigner.dll.config
+D:\Trial\Worked\LibrarySystem\ReportDesigner\obj\Debug\RdlCompile.cache
+D:\Trial\Worked\LibrarySystem\ReportDesigner\obj\Debug\RdlCompile.compiled
+D:\Trial\Worked\LibrarySystem\ReportDesigner\obj\Debug\ReportDesigner.csprojAssemblyReference.cache

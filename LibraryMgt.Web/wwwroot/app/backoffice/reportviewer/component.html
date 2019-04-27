@@ -1,0 +1,47 @@
+<!-- Breadcrumb-->
+<div class="row pt-2 pb-2">
+    <div class="col-sm-6">
+        <h4 class="page-title"><i class="fa fa-cube"></i> Book Reports</h4>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="JavaScript:Void(0);" [routerLink]="['/backoffice']">Dashboard</a></li>
+            <li class="breadcrumb-item">Book</li>
+            <li class="breadcrumb-item active" aria-current="page">Reports</li>
+        </ol>
+    </div>
+    <div class="col-sm-6">
+        <div class="btn-group group-round m-1 float-right">
+
+        </div>
+    </div>
+</div>
+<!-- End Breadcrumb-->
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header">
+                <!--<i class="fa fa-cube"></i> Book Reports-->
+                <div class="card-action">
+                    <a href="JavaScript:Void(0);" class="btn btn-outline-secondary btn-sm waves-effect waves-light m-1">
+                        <i class="fa fa-file-pdf-o"></i> PDF
+                    </a>
+                    <a href="JavaScript:Void(0);" class="btn btn-outline-secondary btn-sm waves-effect waves-light m-1">
+                        <i class="fa fa-file-excel-o"></i> EXCEL
+                    </a>
+                </div>
+            </div>
+            <div class="card-body">
+                <ej-reportviewer id="reportViewer_Control"
+                                 [reportServiceUrl]="serviceUrl"
+                                 [processingMode]="Local"
+                                 [reportServerUrl]="serverUrl"
+                                 [reportPath]="reportPath"
+                                 [dataSources]="reportData"
+                                 [parameters]="parameters"
+                                 [toolbarSettings]="toolbarSettings"
+                                 (reportError)="reportError($event)">
+                </ej-reportviewer>
+            </div>
+        </div>
+    </div>
+</div><!--End Row-->
