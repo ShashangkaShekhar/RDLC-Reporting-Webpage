@@ -32,9 +32,8 @@ namespace LibraryMgt.Web.serverapp.backoffice
             return ReportHelper.ProcessReport(jsonResult, this, this._cache);
         }
 
-        [ActionName("GetResource")]
-        [AcceptVerbs("GET")]
-        public object GetResource(ReportResource resource)
+        [HttpGet("[action]")]
+        public object GetResource([FromQuery] ReportResource resource)
         {
             return ReportHelper.GetResource(resource, this, _cache);
         }
