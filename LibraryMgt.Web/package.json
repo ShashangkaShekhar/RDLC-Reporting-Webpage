@@ -19,7 +19,7 @@
     "systemjs": "^0.21.3",
     "zone.js": "^0.8.26",
     "angular-highcharts": "^6.2.6",
-    "highcharts": "^6.1.1",
+    "highcharts": "^9.0.0",
     "angular2-in-memory-web-api": "0.0.20",
     "jsrender": "^0.9.75",
     "syncfusion-javascript": "^15.1.33",
