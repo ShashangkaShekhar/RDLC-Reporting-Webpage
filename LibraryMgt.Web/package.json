@@ -34,7 +34,7 @@
     "@types/highcharts": "^5.0.22",
     "concurrently": "^3.5.1",
     "json-server": "^0.12.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-rename": "^1.2.2",
     "gulp-cssmin": "^0.2.0",
